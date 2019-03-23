@@ -145,14 +145,14 @@ We chose Standard Interface Detection (ERC-165) to expose the interfaces that a 
 
 ERC721Demo.sol合约编译成功后，利用Remix在Ropsten测试链上进行部署。部署成功后，可执行授权和转让操作，并通过Matemask来确认操作，如下图所示。
 
-![image](./photo/metamask.png)
+![](./metamask.png)
 
 
 最后，我们可以在Etherscan上查看我们发布的NFT,并可查看所有的转移记录。如下图。
 
-![image](./photo/etherscan_1.png)
+![](./etherscan_1.png)
 
-![image](./photo/etherscan_2.png)
+![](./etherscan_2.png)
 
 
 

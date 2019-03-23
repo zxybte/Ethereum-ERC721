@@ -140,7 +140,7 @@ We chose Standard Interface Detection (ERC-165) to expose the interfaces that a 
 使用ERC721 接口的函数也是要实现ERC165的接口的==
 
 具体代码见：
-
+https://github.com/zxybte/Ethereum-ERC721/
 
 
 ERC721Demo.sol合约编译成功后，利用Remix在Ropsten测试链上进行部署。部署成功后，可执行授权和转让操作，并通过Matemask来确认操作，如下图所示。
